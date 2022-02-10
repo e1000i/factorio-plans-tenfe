@@ -4,7 +4,7 @@ Companyes aquí tenim un recull de planells que estem utiltizant a la partida de
 
 ### Organització de la base
 
-* *[Blocs basics d'urbanització](blocs-basics):* Conte les cel·les bàsiques que hem acordat.
+* *[Blocs basics d'urbanització](blocs-basics.md):* Conte les cel·les bàsiques que hem acordat.
 
 ## Com contribuir:
 
