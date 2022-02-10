@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Recull de planells
 
-You can use the [editor on GitHub](https://github.com/e1000i/factorio-plans-tenfe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Companyes aquí tenim un recull de planells que estem utiltizant a la partida de Factorio actual. Ja anire endreçant una mica.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Organització de la base
 
-### Markdown
+* *[Blocs basics d'urbanització](blocs-basics):* Conte les cel·les bàsiques que hem acordat.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Com contribuir:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/e1000i/factorio-plans-tenfe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Podeu fer un fork del repo i afegir un arxiu .md amb els diferents planells que us interesa compartir i mantenir actualitzats si voleu. Feu un merge request i els actualitzare. EL format per escriure es markdown o html. Mireu algu doc meu per veure exemple, demoment no tinc plantilla
