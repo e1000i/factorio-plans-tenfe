@@ -6,6 +6,8 @@ Companyes aquí tenim un recull de planells que estem utiltizant a la partida de
 
 * *[Blocs basics d'urbanització](blocs-basics.md):* Conte les cel·les bàsiques que hem acordat.
 
+* *[BLocs producció energia](blocs-energia.md):* Conte blocs de producció d'energia
+
 ## Com contribuir:
 
 Podeu fer un fork del repo i afegir un arxiu .md amb els diferents planells que us interesa compartir i mantenir actualitzats si voleu. Feu un merge request i els actualitzare. EL format per escriure es markdown o html. Mireu algu doc meu per veure exemple.
