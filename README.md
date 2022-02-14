@@ -6,7 +6,7 @@ Companyes aquí tenim un recull de planells que estem utiltizant a la partida de
 
 * *[Blocs basics d'urbanització](blocs-basics.md):* Conte les cel·les bàsiques que hem acordat.
 
-* *[BLocs producció energia](blocs-energia.md):* Conte blocs de producció d'energia
+* *[Blocs producció energia](blocs-energia.md):* Conte blocs de producció d'energia
 
 ## Com contribuir:
 
